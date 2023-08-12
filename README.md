@@ -78,6 +78,7 @@ The main features of LPC2148 include the following.
 
 
 ## STM 32 CUBE PROGRAM :
+```
 #include "main.h"
 
 
@@ -162,7 +163,7 @@ void assert_failed(uint8_t *file, uint32_t line)
 {
   
 }
-
+```
 
 ## Output  :
 ![iot-exp-1 1](https://github.com/Surendhar6/EXPERIMENT-01-INTERFACING-A-DIGITAL-OUTPUT-TO-IOT-DEVELOPMENT-BOARD-/assets/118352907/b0dcb127-bf35-4e87-9fb8-1c0ca712a12c)
