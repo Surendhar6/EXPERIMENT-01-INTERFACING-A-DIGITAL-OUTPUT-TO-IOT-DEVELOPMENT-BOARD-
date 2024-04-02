@@ -166,10 +166,9 @@ void assert_failed(uint8_t *file, uint32_t line)
 ```
 
 ## Output  :
-![iot-exp-1-1](https://github.com/Surendhar6/EXPERIMENT-01-INTERFACING-A-DIGITAL-OUTPUT-TO-IOT-DEVELOPMENT-BOARD-/assets/118352907/97844d50-8278-47bf-8905-267abdcada91)
+![iot-exp-1-re](https://github.com/Surendhar6/EXPERIMENT-01-INTERFACING-A-DIGITAL-OUTPUT-TO-IOT-DEVELOPMENT-BOARD-/assets/118352907/471f0aa4-fef6-43ed-a813-2c23bd330186)
 
- ![iot-exp-1-2](https://github.com/Surendhar6/EXPERIMENT-01-INTERFACING-A-DIGITAL-OUTPUT-TO-IOT-DEVELOPMENT-BOARD-/assets/118352907/203a6cd6-9397-4b88-ac03-fe149d3002da)
-
+![iot-exp-1 2-re](https://github.com/Surendhar6/EXPERIMENT-01-INTERFACING-A-DIGITAL-OUTPUT-TO-IOT-DEVELOPMENT-BOARD-/assets/118352907/89d5bda9-05d1-4663-9544-3d88d4da130a)
 
  
 ## Result :
